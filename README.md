@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with nested routes and dynamic segments in React Router v6.  The bug showcases how incorrect route ordering can lead to unexpected component rendering. The solution demonstrates the correct order of routes for proper matching.
